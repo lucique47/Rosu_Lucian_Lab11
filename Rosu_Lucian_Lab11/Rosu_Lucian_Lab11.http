@@ -1,0 +1,6 @@
+@Rosu_Lucian_Lab11_HostAddress = http://localhost:5265
+
+GET {{Rosu_Lucian_Lab11_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
